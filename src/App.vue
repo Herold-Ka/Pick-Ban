@@ -1,11 +1,11 @@
 <script setup>
-  import Card from './components/Card.vue';
+import PickEtBan from './views/PickEtBan.vue';
 </script>
 
 <template>
-  <Card />
+  <PickEtBan/>
 </template>
 
 <style scoped>
-
+ 
 </style>
